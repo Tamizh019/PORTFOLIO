@@ -8,6 +8,14 @@
 
 ---
 
+<div align="center">
+  
+[TOUCH HERE FOR LIVE DEMO](https://tamizharasan-portfolio.netlify.app/)
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 > *"Code smarter, not harder. AI amplifies human creativity."*
