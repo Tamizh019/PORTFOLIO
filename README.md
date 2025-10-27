@@ -1,4 +1,4 @@
-# 🚀 Tamizharasan | Cyber Developer Portfolio
+# 🚀 Tamizharasan | Developer Portfolio
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-19%20years%20old-blue?style=for-the-badge&logo=java" alt="Full Stack Developer">
