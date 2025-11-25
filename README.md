@@ -39,24 +39,24 @@ I'm **Tamizharasan**, a 19-year-old passionate developer and AI enthusiast from 
 ## 🛠️ Technology Arsenal
 
 ### 💻 Programming Languages
-- **Java** (90%) - Enterprise applications, Spring Framework
-- **JavaScript** (85%) - React.js, modern web development
-- **Python** (80%) - AI/ML, automation, data analysis
+- **Java**  - Enterprise applications, Spring Framework
+- **JavaScript**  - React.js, modern web development
+- **Python** - AI/ML, automation, data analysis
 
 ### 🌐 Frontend Technologies
-- **React.js** (85%) - Modern UI/UX development
-- **HTML5/CSS3** (95%) - Responsive web design
-- **Bootstrap** (90%) - Rapid prototyping
+- **React.js** - Modern UI/UX development
+- **HTML5/CSS3** - Responsive web design
+- **Bootstrap** - Rapid prototyping
 
 ### ⚙️ Backend & Database
-- **Spring Framework** (80%) - Enterprise Java applications
-- **MySQL** (85%) - Database management
-- **Supabase** (90%) - Backend-as-a-Service
+- **Spring Framework**  - Enterprise Java applications
+- **MySQL**  - Database management
+- **Supabase** - Backend-as-a-Service
 
 ### 🔒 Security & Tools
-- **Cybersecurity** (55%) - CTF, penetration testing
-- **Git/GitHub** (90%) - Version control
-- **Arduino/IoT** (80%) - Hardware programming
+- **Cybersecurity**  - CTF, penetration testing
+- **Git/GitHub**  - Version control
+- **Arduino/IoT** - Hardware programming
 
 ---
 
